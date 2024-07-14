@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 def main():
     st.title("Procurement Data Classifier")
     
-    data_dir = '/Users/dani/Desktop/Datos_código/Procurement_analyser/data'
+    data_dir = 'data'
     
     # Dynamically get all JSON file paths in the directory
     data_files = [os.path.join(data_dir, f) for f in os.listdir(data_dir) if f.endswith('.json')]
