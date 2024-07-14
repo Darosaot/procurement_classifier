@@ -18,6 +18,6 @@ This application uses procurement data from [OpenTender](https://opentender.eu/s
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Darosaot/streamlit_procurement_analyser.git
+   git clone https://github.com/Darosaot/procurement_classifier.git  
    cd procurement_analyser
 # streamlit_procurement_analyser
